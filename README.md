@@ -18,14 +18,18 @@ Simples assim. <br> <br>
  - Instalar o pacote: Express
  - Instalar o pacote: node-cron
  
- ### :mega: Mais informações sobre o Node-Cron:
+ ## :mega: Mais informações sobre o Node-Cron:
  - [Node-Cron] https://www.npmjs.com/package/cron
  
-  ### :mega: Agendamento de Crons com diferentes intervalos
+ ## :mega: Agendamento de Crons com diferentes intervalos
   - [ Agendamento Node-Cron] http://www.nncron.ru/help/EN/working/cron-format.htm
  
  
-### :man: Autor
+ ## 🚧 Execução:
+  - Dentro da pasta src executar: <b>node index.js </b>
+ 
+ 
+## :man: Autor
 
 ---
 
